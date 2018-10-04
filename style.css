@@ -1,0 +1,77 @@
+body {
+    background-image: url("http://www.fondsecran.eu/a/get_photo/59045/2880/1620");
+}
+
+
+
+
+img {
+    width : 320px;
+    height: 230px;
+    position: relative;
+    bottom: 130px;
+}
+h1 {
+    text-align: center;
+    font-family: "Javanese Text";
+    border: inset midnightblue 7px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+h2 {
+    text-align: center;
+    font-family: "Javanese Text";
+    border: inset midnightblue 7px;
+    margin-right: 380px;
+    margin-left: 380px;
+}
+.theme1 {
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+    border: outset darkslategray 8px;
+    margin-right: 1300px;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+.theme2 {
+    position: relative;
+    left: 600px;
+    bottom: 450px;
+    border: outset darkslategray 8px;
+    margin-right: 1300px;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+.theme3 {
+    position: relative;
+    left: 900px;
+    bottom : 700px;
+    border: outset darkslategray 8px;
+    margin-right: 1300px;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+#description {
+    position : relative;
+    left: 420px;
+    bottom: 280px;
+    display: block;
+    border: inset midnightblue 5px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    margin-right: 900px;
+
+}
+
+#social {
+    position: relative;
+    bottom : 600px;
+    left: 400px;
+    border: outset darkslategrey 2px;
+    margin-top: 100px;
+    margin-bottom: 160px;
+    margin-right: 200px;
+    margin-left: 240px;
+
+}
